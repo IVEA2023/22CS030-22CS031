@@ -1,0 +1,808 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1680084455700274, "dur":3626, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084455703913, "dur":347, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1680084455704348, "dur":81, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1680084455704430, "dur":494, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1680084455704969, "dur":2237, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084455707207, "dur":3, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461989541, "dur":240, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461989781, "dur":52, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461989833, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461989837, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461989848, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461989851, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461989861, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461989864, "dur":40, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461989904, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461989907, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461989916, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461989919, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461989928, "dur":34, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461989962, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461989971, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461989974, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461989983, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461990034, "dur":4, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084461990258, "dur":8458, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1680084455706132, "dur":1087, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084455707222, "dur":16614, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084455723865, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1680084455723873, "dur":583, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084455724461, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1680084455724468, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084455727794, "dur":25801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1680084455753601, "dur":294, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1680084455753900, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084455754042, "dur":31061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1680084455785239, "dur":366, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1680084455785611, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084455786467, "dur":4490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1680084455791075, "dur":267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1680084455791348, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084455791482, "dur":203117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1680084455994730, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084455994988, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084455994999, "dur":1403897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084457399520, "dur":560, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084457400104, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084457401509, "dur":520938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084457922559, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084457922667, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084457922678, "dur":113862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084458036649, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084458036755, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084458036766, "dur":28443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084458065323, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084458065426, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084458065439, "dur":62821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084458128364, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084458128507, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084458128533, "dur":241989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084458370618, "dur":214599, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Lobbies.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084458585222, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084458585232, "dur":3976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Lobbies.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084458589303, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Web.Services.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084458589462, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084458589472, "dur":278010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Web.Services.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084458867590, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084458867703, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084458867716, "dur":364148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084459231965, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Reflection.Primitives.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084459232066, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084459232079, "dur":64328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Reflection.Primitives.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084459296519, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084459296652, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084459296665, "dur":372368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084459669141, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084459669252, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084459669265, "dur":933694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084460603292, "dur":445943, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/PhotonVoice.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084461049242, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084461049254, "dur":2770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/PhotonVoice.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084461052141, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Photon3Unity3D.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084461052238, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084461052249, "dur":284491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Photon3Unity3D.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084461336835, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Mono.Data.Sqlite.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084461336930, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680084461336941, "dur":568695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Mono.Data.Sqlite.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680084461905741, "dur":83702, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084455706442, "dur":856, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084455707298, "dur":16547, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084455723864, "dur":333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1680084455724203, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084455728064, "dur":28440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1680084455756621, "dur":246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1680084455756872, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084455756882, "dur":72848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1680084455829851, "dur":282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084455830173, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084455830770, "dur":166898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084455997775, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1680084455998011, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084455998475, "dur":130824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1680084456129448, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084456129592, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084456134884, "dur":498318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084456633355, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084456633481, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084456633494, "dur":243451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084456877368, "dur":982029, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084457859404, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084457859418, "dur":2390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084457861922, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084457862071, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084457862085, "dur":62965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084457925144, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084457925241, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084457925289, "dur":204659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084458130264, "dur":1698, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084458131970, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084458131983, "dur":32219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084458164303, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084458164415, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084458164424, "dur":84609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084458249132, "dur":221766, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084458470906, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084458470919, "dur":1775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084458472783, "dur":16484, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084458489274, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084458489286, "dur":28581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084458517976, "dur":64163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084458582148, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084458582163, "dur":2801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084458585056, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Windows.Forms.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084458585152, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084458585163, "dur":668473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Windows.Forms.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084459253753, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Reflection.Extensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084459253879, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084459253897, "dur":5602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Reflection.Extensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084459259610, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Reflection.Emit.Lightweight.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084459259735, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084459259748, "dur":5508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Reflection.Emit.Lightweight.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084459265373, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Reflection.Emit.ILGeneration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084459265488, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084459265503, "dur":41543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Reflection.Emit.ILGeneration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084459307156, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Net.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084459307288, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084459307312, "dur":91594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Net.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084459398996, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.IO.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084459399087, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084459399098, "dur":81719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.IO.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084459480945, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084459481068, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084459481082, "dur":1517195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084460998363, "dur":195732, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/PhotonChat.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084461194102, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084461194115, "dur":1933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/PhotonChat.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084461196137, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084461196226, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084461196235, "dur":240162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084461436493, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/MongoDB.Bson.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084461436601, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084461436612, "dur":228452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/MongoDB.Bson.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084461665156, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Accessibility.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084461665248, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084461665259, "dur":72650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Accessibility.dll" }}
+,{ "pid":12345, "tid":2, "ts":1680084461738009, "dur":277, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1680084461738290, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084461738300, "dur":29847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1680084461768262, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level6.resS" }}
+,{ "pid":12345, "tid":2, "ts":1680084461768373, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084461768388, "dur":8022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level6.resS" }}
+,{ "pid":12345, "tid":2, "ts":1680084461776545, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level6" }}
+,{ "pid":12345, "tid":2, "ts":1680084461776655, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084461776672, "dur":6127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level6" }}
+,{ "pid":12345, "tid":2, "ts":1680084461782905, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level5.resS" }}
+,{ "pid":12345, "tid":2, "ts":1680084461783047, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084461783069, "dur":2505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level5.resS" }}
+,{ "pid":12345, "tid":2, "ts":1680084461785676, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level4.resS" }}
+,{ "pid":12345, "tid":2, "ts":1680084461785786, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084461785808, "dur":2347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level4.resS" }}
+,{ "pid":12345, "tid":2, "ts":1680084461788251, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level3.resS" }}
+,{ "pid":12345, "tid":2, "ts":1680084461788350, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084461788359, "dur":19233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level3.resS" }}
+,{ "pid":12345, "tid":2, "ts":1680084461807694, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level2.resS" }}
+,{ "pid":12345, "tid":2, "ts":1680084461807959, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084461807975, "dur":4321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level2.resS" }}
+,{ "pid":12345, "tid":2, "ts":1680084461812395, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level2" }}
+,{ "pid":12345, "tid":2, "ts":1680084461812488, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084461812500, "dur":2200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level2" }}
+,{ "pid":12345, "tid":2, "ts":1680084461814815, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level1.resS" }}
+,{ "pid":12345, "tid":2, "ts":1680084461814937, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084461814961, "dur":2325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level1.resS" }}
+,{ "pid":12345, "tid":2, "ts":1680084461817394, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level1" }}
+,{ "pid":12345, "tid":2, "ts":1680084461817495, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084461817509, "dur":2117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level1" }}
+,{ "pid":12345, "tid":2, "ts":1680084461819719, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1680084461819840, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084461819860, "dur":6773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1680084461826750, "dur":285, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1680084461827039, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680084461827244, "dur":7116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1680084461834464, "dur":155002, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084455706383, "dur":900, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084455707283, "dur":16882, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084455724168, "dur":528, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1680084455724701, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084455758907, "dur":45393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1680084455804429, "dur":261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1680084455804695, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084455804710, "dur":18400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1680084455823286, "dur":279, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1680084455823573, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084455823590, "dur":1897661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1680084457721646, "dur":378, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084457722041, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084457722075, "dur":174933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084457897104, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084457897202, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084457897213, "dur":34669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084457931984, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084457932089, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084457932101, "dur":27951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084457960143, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084457960238, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084457960246, "dur":29470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084457989809, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084457989901, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084457989911, "dur":173480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084458163497, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084458163622, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084458163633, "dur":31207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084458194964, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084458195064, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084458195075, "dur":230717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084458425899, "dur":88725, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084458514632, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084458514699, "dur":3317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084458518117, "dur":1095, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084458519219, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084458519234, "dur":2142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084458521541, "dur":61632, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084458583180, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084458583192, "dur":6246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084458589541, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Web.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084458589640, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084458589648, "dur":531239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Web.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084459120991, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Runtime.Extensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084459121097, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084459121109, "dur":227861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Runtime.Extensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084459349074, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Linq.Expressions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084459349251, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084459349264, "dur":69807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Linq.Expressions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084459419179, "dur":455, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Globalization.Extensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084459419640, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084459419653, "dur":47981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Globalization.Extensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084459467744, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Dynamic.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084459467849, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084459467861, "dur":99117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Dynamic.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084459567144, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Diagnostics.Debug.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084459567259, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084459567271, "dur":51948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Diagnostics.Debug.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084459619328, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084459619435, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084459619448, "dur":1077480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084460697465, "dur":571740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/PhotonUnityNetworking.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084461269213, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084461269227, "dur":2050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/PhotonUnityNetworking.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084461271374, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084461271472, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680084461271483, "dur":717832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680084461989418, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":3, "ts":1680084461989420, "dur":1, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084455706331, "dur":926, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084455707258, "dur":16581, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084455723864, "dur":312, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1680084455724187, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084455727639, "dur":102065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1680084455829820, "dur":297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1680084455830124, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084455830176, "dur":167320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1680084455997608, "dur":1423, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA.exe" }}
+,{ "pid":12345, "tid":4, "ts":1680084455999036, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084455999045, "dur":10626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA.exe" }}
+,{ "pid":12345, "tid":4, "ts":1680084456009780, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/websocket-sharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084456009943, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084456010958, "dur":626914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/websocket-sharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084456637966, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084456638063, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084456638076, "dur":149665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084456787893, "dur":462, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084456788361, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084456788374, "dur":163231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084456951965, "dur":328, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084456952308, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084456952341, "dur":474732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084457431977, "dur":437, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084457432434, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084457432468, "dur":414248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084457846810, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084457846912, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084457846923, "dur":61643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084457908665, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084457908762, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084457908776, "dur":62901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084457971776, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084457971874, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084457971886, "dur":64752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458036728, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458036820, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084458036828, "dur":51805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458088761, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458088899, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084458088911, "dur":76837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458165865, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458165973, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084458165984, "dur":112031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458278118, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458278237, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084458278254, "dur":139063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458417423, "dur":69897, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458487325, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084458487336, "dur":18388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458505825, "dur":124240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458630072, "dur":10, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084458630093, "dur":2776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458632973, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Web.ApplicationServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458633081, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084458633093, "dur":116633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Web.ApplicationServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458749824, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Threading.Timer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458749926, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084458749939, "dur":37594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Threading.Timer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458787643, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Threading.Tasks.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458787786, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084458787798, "dur":14406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Threading.Tasks.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458802309, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Text.RegularExpressions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458802420, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084458802433, "dur":55065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Text.RegularExpressions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458857604, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Text.Encoding.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458857705, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084458857846, "dur":10629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Text.Encoding.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458868585, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Security.SecureString.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458868730, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084458868741, "dur":50563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Security.SecureString.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458919406, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Security.Cryptography.Primitives.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458919598, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084458919611, "dur":45485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Security.Cryptography.Primitives.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458965211, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Runtime.Serialization.Formatters.Soap.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084458965330, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084458965342, "dur":304002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Runtime.Serialization.Formatters.Soap.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084459269466, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Reflection.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084459269568, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084459269580, "dur":76697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Reflection.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084459346419, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Linq.Queryable.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084459346580, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084459346597, "dur":5469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Linq.Queryable.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084459352162, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084459352258, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084459352269, "dur":52824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084459405188, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084459405290, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084459405302, "dur":148299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084459553718, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Diagnostics.TraceSource.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084459553832, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084459553846, "dur":3754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Diagnostics.TraceSource.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084459557711, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Diagnostics.Process.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084459557820, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084459557833, "dur":47839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Diagnostics.Process.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084459605783, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Design.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084459605898, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084459605911, "dur":451728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Design.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084460057958, "dur":323, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Collections.NonGeneric.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084460058296, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084460058336, "dur":210619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Collections.NonGeneric.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084460269542, "dur":350, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Collections.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084460269906, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084460269939, "dur":313500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Collections.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084460583758, "dur":547391, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/PhotonVoice.PUN.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084461131156, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084461131169, "dur":1889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/PhotonVoice.PUN.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084461133165, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Novell.Directory.Ldap.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084461133293, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084461133302, "dur":315705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Novell.Directory.Ldap.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084461449104, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Microsoft.Win32.Primitives.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084461449203, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084461449215, "dur":59034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Microsoft.Win32.Primitives.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084461508354, "dur":5521, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/com.srejonkhan.another-file-browser.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084461513883, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084461513897, "dur":2174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/com.srejonkhan.another-file-browser.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084461516170, "dur":426626, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084461942805, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680084461942823, "dur":4484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680084461947406, "dur":42035, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084455706247, "dur":979, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084455707227, "dur":16992, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084455724240, "dur":402, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1680084455724696, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084455755965, "dur":481128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1680084456237217, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084456237331, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084456237343, "dur":143109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084456380563, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084456380683, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084456380701, "dur":1514658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084457895452, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084457895557, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084457895568, "dur":81118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084457979374, "dur":194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084457979575, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084457979587, "dur":136738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084458116642, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084458116742, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084458116751, "dur":135790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084458253369, "dur":196248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084458449662, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084458449676, "dur":2885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084458452653, "dur":47113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084458499773, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084458499787, "dur":6303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084458506185, "dur":1035, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084458507226, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084458507239, "dur":10449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084458517794, "dur":1419, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084458519219, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084458519234, "dur":2242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084458521585, "dur":1279, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084458522871, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084458522884, "dur":1811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084458524804, "dur":140195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Authentication.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084458665006, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084458665019, "dur":1989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Authentication.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084458667108, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084458667206, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084458667217, "dur":203353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084458870680, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084458870789, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084458870800, "dur":338108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084459209041, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084459209284, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084459209310, "dur":97743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084459307161, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Net.Primitives.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084459307315, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084459307325, "dur":11376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Net.Primitives.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084459318803, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Net.NameResolution.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084459318912, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084459318925, "dur":89704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Net.NameResolution.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084459408750, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084459408867, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084459408883, "dur":219486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084459628473, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084459628586, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084459628598, "dur":75396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084459704102, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.ComponentModel.DataAnnotations.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084459704208, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084459704220, "dur":620561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.ComponentModel.DataAnnotations.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084460325126, "dur":505, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Buffers.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084460325646, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084460325739, "dur":145273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Buffers.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084460472448, "dur":342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/SmartExplorer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084460472805, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084460472838, "dur":523114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/SmartExplorer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084460996041, "dur":377813, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/PhotonRealtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084461373863, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461373879, "dur":4200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/PhotonRealtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084461378187, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/MongoDB.Driver.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084461378290, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461378302, "dur":297916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/MongoDB.Driver.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084461676386, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Plugins/x86_64/opus_egpv.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084461676552, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461679360, "dur":5096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Plugins/x86_64/opus_egpv.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084461684559, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Plugins/x86_64/webrtc-audio.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084461684664, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461684893, "dur":6293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Plugins/x86_64/webrtc-audio.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084461691292, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Plugins/x86_64/AudioIn.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084461691397, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461691411, "dur":3240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Plugins/x86_64/AudioIn.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680084461694748, "dur":536, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":5, "ts":1680084461695289, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461695728, "dur":1683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":5, "ts":1680084461697560, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1680084461697671, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461697770, "dur":2156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1680084461700023, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680084461700122, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461700132, "dur":1880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680084461702099, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1680084461702187, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461702196, "dur":1521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1680084461703800, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680084461703890, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461703897, "dur":1682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680084461705674, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680084461705769, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461705779, "dur":1736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680084461707620, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680084461707735, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461707749, "dur":2752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680084461710655, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1680084461710780, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461710802, "dur":15565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1680084461726470, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680084461726567, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461726577, "dur":1993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680084461728670, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1680084461728841, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461728874, "dur":7035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1680084461736017, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1680084461736112, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461736122, "dur":3618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1680084461739844, "dur":14807, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1680084461754670, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461754698, "dur":12795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1680084461767592, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680084461767687, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461767698, "dur":16089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680084461783894, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level5" }}
+,{ "pid":12345, "tid":5, "ts":1680084461783997, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461784007, "dur":2071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level5" }}
+,{ "pid":12345, "tid":5, "ts":1680084461786171, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level4" }}
+,{ "pid":12345, "tid":5, "ts":1680084461786280, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461786299, "dur":1957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level4" }}
+,{ "pid":12345, "tid":5, "ts":1680084461788356, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level3" }}
+,{ "pid":12345, "tid":5, "ts":1680084461788467, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461788474, "dur":30604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level3" }}
+,{ "pid":12345, "tid":5, "ts":1680084461819188, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level0.resS" }}
+,{ "pid":12345, "tid":5, "ts":1680084461819314, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461819336, "dur":2557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/level0.resS" }}
+,{ "pid":12345, "tid":5, "ts":1680084461821997, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680084461822102, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461822113, "dur":2424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680084461824636, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1680084461824734, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680084461824744, "dur":2645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1680084461827495, "dur":162041, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084455706271, "dur":965, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084455707236, "dur":16620, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084455723864, "dur":902, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1680084455724770, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084455764628, "dur":64161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1680084455829215, "dur":486, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1680084455829706, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084455829718, "dur":167666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1680084455997515, "dur":244, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1680084455997763, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084455997776, "dur":297095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1680084456294984, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084456295111, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084456295123, "dur":166311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084456461547, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084456461694, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084456461706, "dur":175945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084456637765, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084456637878, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084456637889, "dur":235947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084456874233, "dur":327, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084456874574, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084456874606, "dur":1084762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084457959470, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084457959564, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084457959576, "dur":170106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084458129834, "dur":2724, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084458132563, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084458132615, "dur":31001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084458163730, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084458163833, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084458163842, "dur":88314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084458252260, "dur":234632, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084458486899, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084458486913, "dur":28293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084458529870, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084458529999, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084458530011, "dur":262327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084458792439, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Threading.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084458792543, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084458792555, "dur":33594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Threading.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084458826249, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Text.Encoding.Extensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084458826359, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084458826370, "dur":69229, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Text.Encoding.Extensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084458895697, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Security.Cryptography.X509Certificates.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084458895801, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084458895812, "dur":52826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Security.Cryptography.X509Certificates.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084458948738, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Security.Cryptography.Algorithms.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084458948838, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084458948850, "dur":37007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Security.Cryptography.Algorithms.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084458985961, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084458986064, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084458986076, "dur":317037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084459303221, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Net.Sockets.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084459303325, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084459303336, "dur":4266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Net.Sockets.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084459307703, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Net.NetworkInformation.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084459307808, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084459307817, "dur":126591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Net.NetworkInformation.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084459434524, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Globalization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084459434635, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084459434648, "dur":82757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Globalization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084459517498, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Drawing.Design.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084459517596, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084459517607, "dur":118603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Drawing.Design.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084459636316, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084459636416, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084459636428, "dur":970232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084460606971, "dur":486378, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/PhotonVoice.API.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084461093357, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084461093370, "dur":2323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/PhotonVoice.API.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084461095793, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Ookii.Dialogs.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084461095891, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084461095902, "dur":177708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Ookii.Dialogs.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084461273717, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Mono.WebBrowser.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084461273824, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084461273837, "dur":79373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Mono.WebBrowser.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084461353346, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/MongoDB.Driver.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084461353445, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084461353455, "dur":142988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/MongoDB.Driver.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084461496541, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/DnsClient.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084461496646, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084461496658, "dur":234827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/DnsClient.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680084461731635, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":6, "ts":1680084461731761, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084461731770, "dur":4914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":6, "ts":1680084461736790, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":6, "ts":1680084461736899, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084461736907, "dur":5931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":6, "ts":1680084461742973, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/resources.resource" }}
+,{ "pid":12345, "tid":6, "ts":1680084461743081, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084461743099, "dur":6643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/resources.resource" }}
+,{ "pid":12345, "tid":6, "ts":1680084461749852, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1680084461749962, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680084461749973, "dur":84412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1680084461834497, "dur":154961, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084455706314, "dur":933, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084455707247, "dur":16812, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084455724060, "dur":492, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1680084455724557, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084455738790, "dur":61411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1680084455800335, "dur":278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1680084455800618, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084455800633, "dur":32054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1680084455832795, "dur":268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084455833068, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084455833177, "dur":353040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084456186348, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084456186476, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084456186488, "dur":32323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084456218910, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084456219012, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084456219023, "dur":42398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084456261559, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084456261683, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084456261695, "dur":199344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084456461153, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084456461282, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084456461295, "dur":146079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084456607489, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084456607644, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084456607660, "dur":213012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084456820782, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084456820922, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084456820935, "dur":285461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084457106763, "dur":329, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084457107106, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084457107137, "dur":292197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084457399688, "dur":381, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084457400088, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084457400123, "dur":257983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084457658441, "dur":322, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084457658778, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084457658812, "dur":210038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084457868943, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084457869040, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084457869052, "dur":35078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084457904224, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084457904325, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084457904336, "dur":55746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084457960214, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084457960306, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084457960314, "dur":41271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084458001690, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084458001795, "dur":9, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084458001816, "dur":35858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084458037780, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084458037884, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084458037895, "dur":78409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084458116409, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084458116517, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084458116529, "dur":50547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084458167180, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084458167285, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084458167295, "dur":71305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084458238712, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084458238902, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084458238915, "dur":99196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084458338222, "dur":621359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084458959589, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084458959604, "dur":26351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084458986049, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Runtime.InteropServices.RuntimeInformation.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084458986156, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084458986165, "dur":111601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Runtime.InteropServices.RuntimeInformation.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084459097877, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Runtime.InteropServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084459097988, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084459098000, "dur":14436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Runtime.InteropServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084459112558, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Runtime.Handles.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084459112672, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084459112687, "dur":161709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Runtime.Handles.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084459274505, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.ObjectModel.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084459274613, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084459274629, "dur":61358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.ObjectModel.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084459336096, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084459336203, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084459336215, "dur":182851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084459519169, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084459519266, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084459519278, "dur":516054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084460035654, "dur":340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Collections.Specialized.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084460036010, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084460036043, "dur":270464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Collections.Specialized.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084460306837, "dur":320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Collections.Concurrent.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084460307178, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084460307213, "dur":311399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Collections.Concurrent.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084460618956, "dur":607381, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/PhotonUnityNetworking.Utilities.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084461226344, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084461226358, "dur":3804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/PhotonUnityNetworking.Utilities.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084461230278, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084461230383, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084461230396, "dur":78024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084461308513, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Mono.Posix.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084461308626, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084461308638, "dur":279696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Mono.Posix.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084461588428, "dur":385975, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084461974411, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680084461974424, "dur":3663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680084461978537, "dur":10905, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084455706374, "dur":896, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084455707271, "dur":17029, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084455724301, "dur":268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1680084455724573, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084455740974, "dur":15180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1680084455756277, "dur":262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1680084455756545, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084455756557, "dur":16151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1680084455772823, "dur":257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1680084455773085, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084455773098, "dur":450565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1680084456223779, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084456223892, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084456223904, "dur":80305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084456304322, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084456304463, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084456304476, "dur":63901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084456368479, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084456368596, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084456368607, "dur":130449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084456499168, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084456499281, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084456499293, "dur":138496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084456637896, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084456637999, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084456638008, "dur":139525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084456777683, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084456777796, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084456777808, "dur":482051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084457260182, "dur":397, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084457260596, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084457260629, "dur":630840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084457891577, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084457891678, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084457891691, "dur":50120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084457941932, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084457942068, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084457942081, "dur":111453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084458053636, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084458053736, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084458053779, "dur":167372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084458221280, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084458221425, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084458221439, "dur":74622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084458296315, "dur":156940, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084458453260, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084458453272, "dur":2359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084458455749, "dur":112196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084458567952, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084458567966, "dur":2202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084458570269, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084458570373, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084458570383, "dur":788581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084459359062, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.IO.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084459359161, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084459359175, "dur":89262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.IO.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084459448536, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084459448641, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084459448653, "dur":97484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084459546260, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.DirectoryServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084459546373, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084459546388, "dur":154255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.DirectoryServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084459700750, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.ComponentModel.TypeConverter.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084459700858, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084459700870, "dur":80494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.ComponentModel.TypeConverter.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084459781474, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084459781583, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084459781596, "dur":1052642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084460837434, "dur":464592, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/PhotonUnityNetworking.Demos.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084461302035, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084461302048, "dur":2352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/PhotonUnityNetworking.Demos.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084461304497, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084461304594, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680084461304606, "dur":576045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/chong/Desktop/reallyfinal/IVEA_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680084461880750, "dur":108708, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680084462002492, "dur":6080, "ph":"X", "name": "ProfilerWriteOutput" }
+,

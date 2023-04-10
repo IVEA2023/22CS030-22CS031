@@ -1,0 +1,3820 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/boot.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/boot.config"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/boot.config"
+      ],
+      "DebugActionIndex": 1
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/globalgamemanagers",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/globalgamemanagers"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/globalgamemanagers"
+      ],
+      "DebugActionIndex": 2
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/globalgamemanagers.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/globalgamemanagers.assets"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/globalgamemanagers.assets"
+      ],
+      "DebugActionIndex": 3
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/level0",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/level0"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/level0"
+      ],
+      "DebugActionIndex": 4
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/level0.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/level0.resS"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/level0.resS"
+      ],
+      "DebugActionIndex": 5
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/level1",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/level1"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/level1"
+      ],
+      "DebugActionIndex": 6
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/level1.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/level1.resS"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/level1.resS"
+      ],
+      "DebugActionIndex": 7
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/level2",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/level2"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/level2"
+      ],
+      "DebugActionIndex": 8
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/level2.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/level2.resS"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/level2.resS"
+      ],
+      "DebugActionIndex": 9
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/level3",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/level3"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/level3"
+      ],
+      "DebugActionIndex": 10
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/level3.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/level3.resS"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/level3.resS"
+      ],
+      "DebugActionIndex": 11
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/resources.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/resources.assets"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/resources.assets"
+      ],
+      "DebugActionIndex": 12
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/resources.assets.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/resources.assets.resS"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/resources.assets.resS"
+      ],
+      "DebugActionIndex": 13
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/resources.resource",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/resources.resource"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/resources.resource"
+      ],
+      "DebugActionIndex": 14
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/RuntimeInitializeOnLoads.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/RuntimeInitializeOnLoads.json"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/RuntimeInitializeOnLoads.json"
+      ],
+      "DebugActionIndex": 15
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/ScriptingAssemblies.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/ScriptingAssemblies.json"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/ScriptingAssemblies.json"
+      ],
+      "DebugActionIndex": 16
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/sharedassets0.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/sharedassets0.assets"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/sharedassets0.assets"
+      ],
+      "DebugActionIndex": 17
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/sharedassets0.assets.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/sharedassets0.assets.resS"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/sharedassets0.assets.resS"
+      ],
+      "DebugActionIndex": 18
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/sharedassets1.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/sharedassets1.assets"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/sharedassets1.assets"
+      ],
+      "DebugActionIndex": 19
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/sharedassets1.assets.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/sharedassets1.assets.resS"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/sharedassets1.assets.resS"
+      ],
+      "DebugActionIndex": 20
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/sharedassets2.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/sharedassets2.assets"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/sharedassets2.assets"
+      ],
+      "DebugActionIndex": 21
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/sharedassets3.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/sharedassets3.assets"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/sharedassets3.assets"
+      ],
+      "DebugActionIndex": 22
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Resources/unity_builtin_extra",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/Resources/unity_builtin_extra"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Resources/unity_builtin_extra"
+      ],
+      "DebugActionIndex": 23
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/StreamingAssets/UnityServicesProjectConfiguration.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/com.unity.services.core/UnityServicesProjectConfiguration.json"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/StreamingAssets/UnityServicesProjectConfiguration.json"
+      ],
+      "DebugActionIndex": 24
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Plugins/x86_64/AudioIn.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/Photon/PhotonVoice/PhotonVoiceLibs/x86_64/AudioIn.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Plugins/x86_64/AudioIn.dll"
+      ],
+      "DebugActionIndex": 25
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Plugins/x86_64/webrtc-audio.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/Photon/PhotonVoice/PhotonVoiceLibs/x86_64/webrtc-audio.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Plugins/x86_64/webrtc-audio.dll"
+      ],
+      "DebugActionIndex": 26
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Plugins/x86_64/opus_egpv.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/Photon/PhotonVoice/PhotonVoiceLibs/x86_64/opus_egpv.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Plugins/x86_64/opus_egpv.dll"
+      ],
+      "DebugActionIndex": 27
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Accessibility.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Accessibility.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Accessibility.dll"
+      ],
+      "DebugActionIndex": 28
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Assembly-CSharp.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Assembly-CSharp.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Assembly-CSharp.dll"
+      ],
+      "DebugActionIndex": 29
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Assembly-CSharp.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Assembly-CSharp.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Assembly-CSharp.pdb"
+      ],
+      "DebugActionIndex": 30
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Cinemachine.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Cinemachine.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Cinemachine.dll"
+      ],
+      "DebugActionIndex": 31
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Cinemachine.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Cinemachine.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Cinemachine.pdb"
+      ],
+      "DebugActionIndex": 32
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/com.srejonkhan.another-file-browser.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/com.srejonkhan.another-file-browser.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/com.srejonkhan.another-file-browser.dll"
+      ],
+      "DebugActionIndex": 33
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/com.srejonkhan.another-file-browser.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/com.srejonkhan.another-file-browser.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/com.srejonkhan.another-file-browser.pdb"
+      ],
+      "DebugActionIndex": 34
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/DnsClient.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/DnsClient.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/DnsClient.dll"
+      ],
+      "DebugActionIndex": 35
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Microsoft.Win32.Primitives.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.Win32.Primitives.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Microsoft.Win32.Primitives.dll"
+      ],
+      "DebugActionIndex": 36
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/MongoDB.Bson.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/MongoDB.Bson.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/MongoDB.Bson.dll"
+      ],
+      "DebugActionIndex": 37
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/MongoDB.Driver.Core.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/MongoDB.Driver.Core.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/MongoDB.Driver.Core.dll"
+      ],
+      "DebugActionIndex": 38
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/MongoDB.Driver.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/MongoDB.Driver.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/MongoDB.Driver.dll"
+      ],
+      "DebugActionIndex": 39
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Mono.Data.Sqlite.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Mono.Data.Sqlite.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Mono.Data.Sqlite.dll"
+      ],
+      "DebugActionIndex": 40
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Mono.Posix.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Mono.Posix.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Mono.Posix.dll"
+      ],
+      "DebugActionIndex": 41
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Mono.Security.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Mono.Security.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Mono.Security.dll"
+      ],
+      "DebugActionIndex": 42
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Mono.WebBrowser.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Mono.WebBrowser.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Mono.WebBrowser.dll"
+      ],
+      "DebugActionIndex": 43
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/mscorlib.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/mscorlib.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/mscorlib.dll"
+      ],
+      "DebugActionIndex": 44
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/netstandard.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/netstandard.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/netstandard.dll"
+      ],
+      "DebugActionIndex": 45
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Newtonsoft.Json.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Newtonsoft.Json.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Newtonsoft.Json.dll"
+      ],
+      "DebugActionIndex": 46
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Newtonsoft.Json.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Newtonsoft.Json.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Newtonsoft.Json.pdb"
+      ],
+      "DebugActionIndex": 47
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Novell.Directory.Ldap.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Novell.Directory.Ldap.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Novell.Directory.Ldap.dll"
+      ],
+      "DebugActionIndex": 48
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Ookii.Dialogs.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Ookii.Dialogs.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Ookii.Dialogs.dll"
+      ],
+      "DebugActionIndex": 49
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Photon3Unity3D.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Photon3Unity3D.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Photon3Unity3D.dll"
+      ],
+      "DebugActionIndex": 50
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Photon3Unity3D.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Photon3Unity3D.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Photon3Unity3D.pdb"
+      ],
+      "DebugActionIndex": 51
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/PhotonChat.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/PhotonChat.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/PhotonChat.dll"
+      ],
+      "DebugActionIndex": 52
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/PhotonChat.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/PhotonChat.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/PhotonChat.pdb"
+      ],
+      "DebugActionIndex": 53
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/PhotonRealtime.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/PhotonRealtime.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/PhotonRealtime.dll"
+      ],
+      "DebugActionIndex": 54
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/PhotonRealtime.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/PhotonRealtime.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/PhotonRealtime.pdb"
+      ],
+      "DebugActionIndex": 55
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/PhotonUnityNetworking.Demos.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/PhotonUnityNetworking.Demos.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/PhotonUnityNetworking.Demos.dll"
+      ],
+      "DebugActionIndex": 56
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/PhotonUnityNetworking.Demos.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/PhotonUnityNetworking.Demos.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/PhotonUnityNetworking.Demos.pdb"
+      ],
+      "DebugActionIndex": 57
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/PhotonUnityNetworking.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/PhotonUnityNetworking.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/PhotonUnityNetworking.dll"
+      ],
+      "DebugActionIndex": 58
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/PhotonUnityNetworking.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/PhotonUnityNetworking.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/PhotonUnityNetworking.pdb"
+      ],
+      "DebugActionIndex": 59
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/PhotonUnityNetworking.Utilities.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/PhotonUnityNetworking.Utilities.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/PhotonUnityNetworking.Utilities.dll"
+      ],
+      "DebugActionIndex": 60
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/PhotonUnityNetworking.Utilities.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/PhotonUnityNetworking.Utilities.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/PhotonUnityNetworking.Utilities.pdb"
+      ],
+      "DebugActionIndex": 61
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/PhotonVoice.API.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/PhotonVoice.API.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/PhotonVoice.API.dll"
+      ],
+      "DebugActionIndex": 62
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/PhotonVoice.API.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/PhotonVoice.API.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/PhotonVoice.API.pdb"
+      ],
+      "DebugActionIndex": 63
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/PhotonVoice.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/PhotonVoice.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/PhotonVoice.dll"
+      ],
+      "DebugActionIndex": 64
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/PhotonVoice.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/PhotonVoice.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/PhotonVoice.pdb"
+      ],
+      "DebugActionIndex": 65
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/PhotonVoice.PUN.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/PhotonVoice.PUN.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/PhotonVoice.PUN.dll"
+      ],
+      "DebugActionIndex": 66
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/PhotonVoice.PUN.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/PhotonVoice.PUN.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/PhotonVoice.PUN.pdb"
+      ],
+      "DebugActionIndex": 67
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/SmartExplorer.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/SmartExplorer.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/SmartExplorer.dll"
+      ],
+      "DebugActionIndex": 68
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Buffers.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Buffers.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Buffers.dll"
+      ],
+      "DebugActionIndex": 69
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Collections.Concurrent.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Collections.Concurrent.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Collections.Concurrent.dll"
+      ],
+      "DebugActionIndex": 70
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Collections.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Collections.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Collections.dll"
+      ],
+      "DebugActionIndex": 71
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Collections.NonGeneric.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Collections.NonGeneric.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Collections.NonGeneric.dll"
+      ],
+      "DebugActionIndex": 72
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Collections.Specialized.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Collections.Specialized.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Collections.Specialized.dll"
+      ],
+      "DebugActionIndex": 73
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.ComponentModel.Composition.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.ComponentModel.Composition.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.ComponentModel.Composition.dll"
+      ],
+      "DebugActionIndex": 74
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.ComponentModel.DataAnnotations.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.ComponentModel.DataAnnotations.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.ComponentModel.DataAnnotations.dll"
+      ],
+      "DebugActionIndex": 75
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.ComponentModel.TypeConverter.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.ComponentModel.TypeConverter.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.ComponentModel.TypeConverter.dll"
+      ],
+      "DebugActionIndex": 76
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Configuration.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Configuration.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Configuration.dll"
+      ],
+      "DebugActionIndex": 77
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Core.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Core.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Core.dll"
+      ],
+      "DebugActionIndex": 78
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Data.DataSetExtensions.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Data.DataSetExtensions.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Data.DataSetExtensions.dll"
+      ],
+      "DebugActionIndex": 79
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Data.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Data.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Data.dll"
+      ],
+      "DebugActionIndex": 80
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Design.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Design.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Design.dll"
+      ],
+      "DebugActionIndex": 81
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Diagnostics.Debug.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Diagnostics.Debug.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Diagnostics.Debug.dll"
+      ],
+      "DebugActionIndex": 82
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Diagnostics.Process.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Diagnostics.Process.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Diagnostics.Process.dll"
+      ],
+      "DebugActionIndex": 83
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Diagnostics.TraceSource.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Diagnostics.TraceSource.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Diagnostics.TraceSource.dll"
+      ],
+      "DebugActionIndex": 84
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.DirectoryServices.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.DirectoryServices.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.DirectoryServices.dll"
+      ],
+      "DebugActionIndex": 85
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.dll"
+      ],
+      "DebugActionIndex": 86
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Drawing.Design.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Drawing.Design.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Drawing.Design.dll"
+      ],
+      "DebugActionIndex": 87
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Drawing.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Drawing.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Drawing.dll"
+      ],
+      "DebugActionIndex": 88
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Dynamic.Runtime.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Dynamic.Runtime.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Dynamic.Runtime.dll"
+      ],
+      "DebugActionIndex": 89
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.EnterpriseServices.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.EnterpriseServices.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.EnterpriseServices.dll"
+      ],
+      "DebugActionIndex": 90
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Globalization.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Globalization.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Globalization.dll"
+      ],
+      "DebugActionIndex": 91
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Globalization.Extensions.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Globalization.Extensions.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Globalization.Extensions.dll"
+      ],
+      "DebugActionIndex": 92
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.IO.Compression.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.IO.Compression.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.IO.Compression.dll"
+      ],
+      "DebugActionIndex": 93
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.IO.Compression.FileSystem.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.IO.Compression.FileSystem.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.IO.Compression.FileSystem.dll"
+      ],
+      "DebugActionIndex": 94
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.IO.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.IO.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.IO.dll"
+      ],
+      "DebugActionIndex": 95
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.IO.FileSystem.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.IO.FileSystem.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.IO.FileSystem.dll"
+      ],
+      "DebugActionIndex": 96
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Linq.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Linq.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Linq.dll"
+      ],
+      "DebugActionIndex": 97
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Linq.Expressions.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Linq.Expressions.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Linq.Expressions.dll"
+      ],
+      "DebugActionIndex": 98
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Linq.Queryable.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Linq.Queryable.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Linq.Queryable.dll"
+      ],
+      "DebugActionIndex": 99
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Net.Http.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Net.Http.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Net.Http.dll"
+      ],
+      "DebugActionIndex": 100
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Net.NameResolution.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Net.NameResolution.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Net.NameResolution.dll"
+      ],
+      "DebugActionIndex": 101
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Net.NetworkInformation.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Net.NetworkInformation.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Net.NetworkInformation.dll"
+      ],
+      "DebugActionIndex": 102
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Net.Primitives.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Net.Primitives.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Net.Primitives.dll"
+      ],
+      "DebugActionIndex": 103
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Net.Security.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Net.Security.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Net.Security.dll"
+      ],
+      "DebugActionIndex": 104
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Net.Sockets.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Net.Sockets.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Net.Sockets.dll"
+      ],
+      "DebugActionIndex": 105
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Numerics.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Numerics.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Numerics.dll"
+      ],
+      "DebugActionIndex": 106
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.ObjectModel.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.ObjectModel.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.ObjectModel.dll"
+      ],
+      "DebugActionIndex": 107
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Reflection.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Reflection.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Reflection.dll"
+      ],
+      "DebugActionIndex": 108
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Reflection.Emit.ILGeneration.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Reflection.Emit.ILGeneration.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Reflection.Emit.ILGeneration.dll"
+      ],
+      "DebugActionIndex": 109
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Reflection.Emit.Lightweight.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Reflection.Emit.Lightweight.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Reflection.Emit.Lightweight.dll"
+      ],
+      "DebugActionIndex": 110
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Reflection.Extensions.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Reflection.Extensions.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Reflection.Extensions.dll"
+      ],
+      "DebugActionIndex": 111
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Reflection.Primitives.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Reflection.Primitives.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Reflection.Primitives.dll"
+      ],
+      "DebugActionIndex": 112
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Runtime.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Runtime.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Runtime.dll"
+      ],
+      "DebugActionIndex": 113
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Runtime.Extensions.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Runtime.Extensions.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Runtime.Extensions.dll"
+      ],
+      "DebugActionIndex": 114
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Runtime.Handles.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Runtime.Handles.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Runtime.Handles.dll"
+      ],
+      "DebugActionIndex": 115
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Runtime.InteropServices.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Runtime.InteropServices.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Runtime.InteropServices.dll"
+      ],
+      "DebugActionIndex": 116
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Runtime.InteropServices.RuntimeInformation.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Runtime.InteropServices.RuntimeInformation.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Runtime.InteropServices.RuntimeInformation.dll"
+      ],
+      "DebugActionIndex": 117
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Runtime.Serialization.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Runtime.Serialization.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Runtime.Serialization.dll"
+      ],
+      "DebugActionIndex": 118
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Runtime.Serialization.Formatters.Soap.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Runtime.Serialization.Formatters.Soap.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Runtime.Serialization.Formatters.Soap.dll"
+      ],
+      "DebugActionIndex": 119
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Security.Cryptography.Algorithms.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Security.Cryptography.Algorithms.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Security.Cryptography.Algorithms.dll"
+      ],
+      "DebugActionIndex": 120
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Security.Cryptography.Primitives.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Security.Cryptography.Primitives.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Security.Cryptography.Primitives.dll"
+      ],
+      "DebugActionIndex": 121
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Security.Cryptography.X509Certificates.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Security.Cryptography.X509Certificates.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Security.Cryptography.X509Certificates.dll"
+      ],
+      "DebugActionIndex": 122
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Security.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Security.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Security.dll"
+      ],
+      "DebugActionIndex": 123
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Security.SecureString.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Security.SecureString.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Security.SecureString.dll"
+      ],
+      "DebugActionIndex": 124
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.ServiceModel.Internals.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.ServiceModel.Internals.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.ServiceModel.Internals.dll"
+      ],
+      "DebugActionIndex": 125
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Text.Encoding.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Text.Encoding.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Text.Encoding.dll"
+      ],
+      "DebugActionIndex": 126
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Text.Encoding.Extensions.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Text.Encoding.Extensions.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Text.Encoding.Extensions.dll"
+      ],
+      "DebugActionIndex": 127
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Text.RegularExpressions.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Text.RegularExpressions.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Text.RegularExpressions.dll"
+      ],
+      "DebugActionIndex": 128
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Threading.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Threading.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Threading.dll"
+      ],
+      "DebugActionIndex": 129
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Threading.Tasks.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Threading.Tasks.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Threading.Tasks.dll"
+      ],
+      "DebugActionIndex": 130
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Threading.Timer.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Threading.Timer.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Threading.Timer.dll"
+      ],
+      "DebugActionIndex": 131
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Transactions.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Transactions.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Transactions.dll"
+      ],
+      "DebugActionIndex": 132
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Web.ApplicationServices.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Web.ApplicationServices.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Web.ApplicationServices.dll"
+      ],
+      "DebugActionIndex": 133
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Web.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Web.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Web.dll"
+      ],
+      "DebugActionIndex": 134
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Web.Services.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Web.Services.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Web.Services.dll"
+      ],
+      "DebugActionIndex": 135
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Windows.Forms.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Windows.Forms.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Windows.Forms.dll"
+      ],
+      "DebugActionIndex": 136
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Xml.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Xml.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Xml.dll"
+      ],
+      "DebugActionIndex": 137
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/System.Xml.Linq.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Xml.Linq.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/System.Xml.Linq.dll"
+      ],
+      "DebugActionIndex": 138
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Authentication.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Authentication.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Authentication.dll"
+      ],
+      "DebugActionIndex": 139
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Authentication.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Authentication.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Authentication.pdb"
+      ],
+      "DebugActionIndex": 140
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Analytics.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Analytics.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Analytics.dll"
+      ],
+      "DebugActionIndex": 141
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Analytics.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Analytics.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Analytics.pdb"
+      ],
+      "DebugActionIndex": 142
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Configuration.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Configuration.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Configuration.dll"
+      ],
+      "DebugActionIndex": 143
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Configuration.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Configuration.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Configuration.pdb"
+      ],
+      "DebugActionIndex": 144
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Device.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Device.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Device.dll"
+      ],
+      "DebugActionIndex": 145
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Device.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Device.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Device.pdb"
+      ],
+      "DebugActionIndex": 146
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.dll"
+      ],
+      "DebugActionIndex": 147
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Environments.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Environments.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Environments.dll"
+      ],
+      "DebugActionIndex": 148
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Environments.Internal.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Environments.Internal.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Environments.Internal.dll"
+      ],
+      "DebugActionIndex": 149
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Environments.Internal.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Environments.Internal.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Environments.Internal.pdb"
+      ],
+      "DebugActionIndex": 150
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Environments.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Environments.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Environments.pdb"
+      ],
+      "DebugActionIndex": 151
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Internal.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Internal.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Internal.dll"
+      ],
+      "DebugActionIndex": 152
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Internal.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Internal.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Internal.pdb"
+      ],
+      "DebugActionIndex": 153
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Networking.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Networking.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Networking.dll"
+      ],
+      "DebugActionIndex": 154
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Networking.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Networking.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Networking.pdb"
+      ],
+      "DebugActionIndex": 155
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.pdb"
+      ],
+      "DebugActionIndex": 156
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Registration.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Registration.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Registration.dll"
+      ],
+      "DebugActionIndex": 157
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Registration.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Registration.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Registration.pdb"
+      ],
+      "DebugActionIndex": 158
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Scheduler.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Scheduler.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Scheduler.dll"
+      ],
+      "DebugActionIndex": 159
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Scheduler.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Scheduler.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Scheduler.pdb"
+      ],
+      "DebugActionIndex": 160
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Telemetry.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Telemetry.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Telemetry.dll"
+      ],
+      "DebugActionIndex": 161
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Telemetry.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Telemetry.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Telemetry.pdb"
+      ],
+      "DebugActionIndex": 162
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Threading.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Threading.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Threading.dll"
+      ],
+      "DebugActionIndex": 163
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Threading.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Core.Threading.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Core.Threading.pdb"
+      ],
+      "DebugActionIndex": 164
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Lobbies.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Lobbies.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Lobbies.dll"
+      ],
+      "DebugActionIndex": 165
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Services.Lobbies.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Services.Lobbies.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Services.Lobbies.pdb"
+      ],
+      "DebugActionIndex": 166
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.TextMeshPro.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.TextMeshPro.dll"
+      ],
+      "DebugActionIndex": 167
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.TextMeshPro.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.TextMeshPro.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.TextMeshPro.pdb"
+      ],
+      "DebugActionIndex": 168
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Timeline.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Timeline.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Timeline.dll"
+      ],
+      "DebugActionIndex": 169
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.Timeline.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Timeline.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.Timeline.pdb"
+      ],
+      "DebugActionIndex": 170
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
+      ],
+      "DebugActionIndex": 171
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.VisualScripting.Core.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.Core.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.VisualScripting.Core.dll"
+      ],
+      "DebugActionIndex": 172
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.VisualScripting.Core.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.Core.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.VisualScripting.Core.pdb"
+      ],
+      "DebugActionIndex": 173
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.VisualScripting.Flow.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.Flow.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.VisualScripting.Flow.dll"
+      ],
+      "DebugActionIndex": 174
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.VisualScripting.Flow.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.Flow.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.VisualScripting.Flow.pdb"
+      ],
+      "DebugActionIndex": 175
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.VisualScripting.State.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.State.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.VisualScripting.State.dll"
+      ],
+      "DebugActionIndex": 176
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/Unity.VisualScripting.State.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.State.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/Unity.VisualScripting.State.pdb"
+      ],
+      "DebugActionIndex": 177
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.AccessibilityModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AccessibilityModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.AccessibilityModule.dll"
+      ],
+      "DebugActionIndex": 178
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.AIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AIModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.AIModule.dll"
+      ],
+      "DebugActionIndex": 179
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AndroidJNIModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.AndroidJNIModule.dll"
+      ],
+      "DebugActionIndex": 180
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.AnimationModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.AnimationModule.dll"
+      ],
+      "DebugActionIndex": 181
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.ARModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ARModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.ARModule.dll"
+      ],
+      "DebugActionIndex": 182
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.AssetBundleModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AssetBundleModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.AssetBundleModule.dll"
+      ],
+      "DebugActionIndex": 183
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.AudioModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.AudioModule.dll"
+      ],
+      "DebugActionIndex": 184
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.ClothModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ClothModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.ClothModule.dll"
+      ],
+      "DebugActionIndex": 185
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.ClusterInputModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ClusterInputModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.ClusterInputModule.dll"
+      ],
+      "DebugActionIndex": 186
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ClusterRendererModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.ClusterRendererModule.dll"
+      ],
+      "DebugActionIndex": 187
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.CoreModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.CoreModule.dll"
+      ],
+      "DebugActionIndex": 188
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.CrashReportingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.CrashReportingModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.CrashReportingModule.dll"
+      ],
+      "DebugActionIndex": 189
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.DirectorModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.DirectorModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.DirectorModule.dll"
+      ],
+      "DebugActionIndex": 190
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.dll"
+      ],
+      "DebugActionIndex": 191
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.DSPGraphModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.DSPGraphModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.DSPGraphModule.dll"
+      ],
+      "DebugActionIndex": 192
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.GameCenterModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.GameCenterModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.GameCenterModule.dll"
+      ],
+      "DebugActionIndex": 193
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.GIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.GIModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.GIModule.dll"
+      ],
+      "DebugActionIndex": 194
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.GridModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.GridModule.dll"
+      ],
+      "DebugActionIndex": 195
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.HotReloadModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.HotReloadModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.HotReloadModule.dll"
+      ],
+      "DebugActionIndex": 196
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.ImageConversionModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ImageConversionModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.ImageConversionModule.dll"
+      ],
+      "DebugActionIndex": 197
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.IMGUIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.IMGUIModule.dll"
+      ],
+      "DebugActionIndex": 198
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.InputLegacyModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.InputLegacyModule.dll"
+      ],
+      "DebugActionIndex": 199
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.InputModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.InputModule.dll"
+      ],
+      "DebugActionIndex": 200
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.JSONSerializeModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.JSONSerializeModule.dll"
+      ],
+      "DebugActionIndex": 201
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.LocalizationModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.LocalizationModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.LocalizationModule.dll"
+      ],
+      "DebugActionIndex": 202
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.NVIDIAModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.NVIDIAModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.NVIDIAModule.dll"
+      ],
+      "DebugActionIndex": 203
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.ParticleSystemModule.dll"
+      ],
+      "DebugActionIndex": 204
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.PerformanceReportingModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.PerformanceReportingModule.dll"
+      ],
+      "DebugActionIndex": 205
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.Physics2DModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.Physics2DModule.dll"
+      ],
+      "DebugActionIndex": 206
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.PhysicsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.PhysicsModule.dll"
+      ],
+      "DebugActionIndex": 207
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.ProfilerModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ProfilerModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.ProfilerModule.dll"
+      ],
+      "DebugActionIndex": 208
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+      ],
+      "DebugActionIndex": 209
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ScreenCaptureModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.ScreenCaptureModule.dll"
+      ],
+      "DebugActionIndex": 210
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.SharedInternalsModule.dll"
+      ],
+      "DebugActionIndex": 211
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SpriteMaskModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.SpriteMaskModule.dll"
+      ],
+      "DebugActionIndex": 212
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.SpriteShapeModule.dll"
+      ],
+      "DebugActionIndex": 213
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.StreamingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.StreamingModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.StreamingModule.dll"
+      ],
+      "DebugActionIndex": 214
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.SubstanceModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SubstanceModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.SubstanceModule.dll"
+      ],
+      "DebugActionIndex": 215
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.SubsystemsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.SubsystemsModule.dll"
+      ],
+      "DebugActionIndex": 216
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.TerrainModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TerrainModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.TerrainModule.dll"
+      ],
+      "DebugActionIndex": 217
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TerrainPhysicsModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.TerrainPhysicsModule.dll"
+      ],
+      "DebugActionIndex": 218
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TextCoreFontEngineModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll"
+      ],
+      "DebugActionIndex": 219
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TextCoreTextEngineModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll"
+      ],
+      "DebugActionIndex": 220
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.TextRenderingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.TextRenderingModule.dll"
+      ],
+      "DebugActionIndex": 221
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.TilemapModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.TilemapModule.dll"
+      ],
+      "DebugActionIndex": 222
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.TLSModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TLSModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.TLSModule.dll"
+      ],
+      "DebugActionIndex": 223
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.UI.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UI.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.UI.dll"
+      ],
+      "DebugActionIndex": 224
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.UI.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UI.pdb"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.UI.pdb"
+      ],
+      "DebugActionIndex": 225
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.UIElementsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UIElementsModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.UIElementsModule.dll"
+      ],
+      "DebugActionIndex": 226
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.UIElementsNativeModule.dll"
+      ],
+      "DebugActionIndex": 227
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.UIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.UIModule.dll"
+      ],
+      "DebugActionIndex": 228
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.UmbraModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UmbraModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.UmbraModule.dll"
+      ],
+      "DebugActionIndex": 229
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.UNETModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UNETModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.UNETModule.dll"
+      ],
+      "DebugActionIndex": 230
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll"
+      ],
+      "DebugActionIndex": 231
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityAnalyticsModule.dll"
+      ],
+      "DebugActionIndex": 232
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityConnectModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityConnectModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityConnectModule.dll"
+      ],
+      "DebugActionIndex": 233
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityCurlModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityCurlModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityCurlModule.dll"
+      ],
+      "DebugActionIndex": 234
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityTestProtocolModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityTestProtocolModule.dll"
+      ],
+      "DebugActionIndex": 235
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+      ],
+      "DebugActionIndex": 236
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll"
+      ],
+      "DebugActionIndex": 237
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityWebRequestModule.dll"
+      ],
+      "DebugActionIndex": 238
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll"
+      ],
+      "DebugActionIndex": 239
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll"
+      ],
+      "DebugActionIndex": 240
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.VehiclesModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VehiclesModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.VehiclesModule.dll"
+      ],
+      "DebugActionIndex": 241
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.VFXModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VFXModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.VFXModule.dll"
+      ],
+      "DebugActionIndex": 242
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.VideoModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VideoModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.VideoModule.dll"
+      ],
+      "DebugActionIndex": 243
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VirtualTexturingModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.VirtualTexturingModule.dll"
+      ],
+      "DebugActionIndex": 244
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.VRModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VRModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.VRModule.dll"
+      ],
+      "DebugActionIndex": 245
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.WindModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.WindModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.WindModule.dll"
+      ],
+      "DebugActionIndex": 246
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/UnityEngine.XRModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.XRModule.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/UnityEngine.XRModule.dll"
+      ],
+      "DebugActionIndex": 247
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Managed/websocket-sharp.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/websocket-sharp.dll"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Managed/websocket-sharp.dll"
+      ],
+      "DebugActionIndex": 248
+    },
+    {
+      "Annotation": "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info",
+      "ActionType": "WriteTextFile",
+      "WriteTextFilePayload": "DefaultCompany\nFYPPPPPPPP",
+      "Inputs": [],
+      "Outputs": [
+        "Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info"
+      ],
+      "AllowUnwrittenOutputFiles": true,
+      "DebugActionIndex": 249
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/app.info",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/app.info"
+      ],
+      "ToBuildDependencies": [
+        249
+      ],
+      "DebugActionIndex": 250
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP_Data/Resources/unity default resources",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/Data/Resources/unity default resources"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP_Data/Resources/unity default resources"
+      ],
+      "DebugActionIndex": 251
+    },
+    {
+      "Annotation": "CopyFiles Product/FYPPPPPPPP.exe",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/WindowsPlayer.exe"
+      ],
+      "Outputs": [
+        "Product/FYPPPPPPPP.exe"
+      ],
+      "DebugActionIndex": 252
+    },
+    {
+      "Annotation": "CopyFiles Product/UnityCrashHandler64.exe",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/UnityCrashHandler64.exe"
+      ],
+      "Outputs": [
+        "Product/UnityCrashHandler64.exe"
+      ],
+      "DebugActionIndex": 253
+    },
+    {
+      "Annotation": "CopyFiles Product/UnityPlayer.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/UnityPlayer.dll"
+      ],
+      "Outputs": [
+        "Product/UnityPlayer.dll"
+      ],
+      "DebugActionIndex": 254
+    },
+    {
+      "Annotation": "CopyFiles Product/WinPixEventRuntime.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/WinPixEventRuntime.dll"
+      ],
+      "Outputs": [
+        "Product/WinPixEventRuntime.dll"
+      ],
+      "DebugActionIndex": 255
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll"
+      ],
+      "DebugActionIndex": 256
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll"
+      ],
+      "DebugActionIndex": 257
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/etc/mono/browscap.ini",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/etc/mono/browscap.ini"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/etc/mono/browscap.ini"
+      ],
+      "DebugActionIndex": 258
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/etc/mono/config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/etc/mono/config"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/etc/mono/config"
+      ],
+      "DebugActionIndex": 259
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "DebugActionIndex": 260
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/etc/mono/2.0/machine.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/etc/mono/2.0/machine.config"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/etc/mono/2.0/machine.config"
+      ],
+      "DebugActionIndex": 261
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/etc/mono/2.0/settings.map",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/etc/mono/2.0/settings.map"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/etc/mono/2.0/settings.map"
+      ],
+      "DebugActionIndex": 262
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/etc/mono/2.0/web.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/etc/mono/2.0/web.config"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/etc/mono/2.0/web.config"
+      ],
+      "DebugActionIndex": 263
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser"
+      ],
+      "DebugActionIndex": 264
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "DebugActionIndex": 265
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/etc/mono/4.0/machine.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/etc/mono/4.0/machine.config"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/etc/mono/4.0/machine.config"
+      ],
+      "DebugActionIndex": 266
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/etc/mono/4.0/settings.map",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/etc/mono/4.0/settings.map"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/etc/mono/4.0/settings.map"
+      ],
+      "DebugActionIndex": 267
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/etc/mono/4.0/web.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/etc/mono/4.0/web.config"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/etc/mono/4.0/web.config"
+      ],
+      "DebugActionIndex": 268
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser"
+      ],
+      "DebugActionIndex": 269
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "DebugActionIndex": 270
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/etc/mono/4.5/machine.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/etc/mono/4.5/machine.config"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/etc/mono/4.5/machine.config"
+      ],
+      "DebugActionIndex": 271
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/etc/mono/4.5/settings.map",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/etc/mono/4.5/settings.map"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/etc/mono/4.5/settings.map"
+      ],
+      "DebugActionIndex": 272
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/etc/mono/4.5/web.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/etc/mono/4.5/web.config"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/etc/mono/4.5/web.config"
+      ],
+      "DebugActionIndex": 273
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser"
+      ],
+      "DebugActionIndex": 274
+    },
+    {
+      "Annotation": "CopyFiles Product/MonoBleedingEdge/etc/mono/mconfig/config.xml",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/MonoBleedingEdge/etc/mono/mconfig/config.xml"
+      ],
+      "Outputs": [
+        "Product/MonoBleedingEdge/etc/mono/mconfig/config.xml"
+      ],
+      "DebugActionIndex": 275
+    },
+    {
+      "Annotation": "Player",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 276
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/WinPlayerBuildProgram.Data.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/WinPlayerBuildProgram.exe"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.BuildTools.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.Core.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.CSharpSupport.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.DotNet.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.NativeProgramSupport.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.Stevedore.Program.exe"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.TinyProfiler2.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.GNU.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.LLVM.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.VisualStudio.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.Xcode.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.Tools.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.TundraBackend.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.VisualStudioSolution.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.Data.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/ClassRegistrationGenerator.exe"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Newtonsoft.Json.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/NiceIO.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.Data.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.Data.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.exe"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/SharpYaml.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.Api.Attributes.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Mdb.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Pdb.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Rocks.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Api.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Bee.BuildLogic.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.Linker.Api.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.Options.dll"
+    },
+    {
+      "File": "Library/Bee/Playercc449d29-inputdata.json"
+    }
+  ],
+  "StatSignatures": [
+    {
+      "File": "Assets/Photon/PhotonVoice/PhotonVoiceLibs/x86_64/AudioIn.dll"
+    },
+    {
+      "File": "Assets/Photon/PhotonVoice/PhotonVoiceLibs/x86_64/opus_egpv.dll"
+    },
+    {
+      "File": "Assets/Photon/PhotonVoice/PhotonVoiceLibs/x86_64/webrtc-audio.dll"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono"
+    },
+    {
+      "File": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/Data/Resources"
+    },
+    {
+      "File": "Library/Bee/Playercc449d29-inputdata.json"
+    },
+    {
+      "File": "Product/FYPPPPPPPP.sln"
+    },
+    {
+      "File": "Product/GameAssembly.dll"
+    },
+    {
+      "File": "Product/UnityCommon.props"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "Assets/StreamingAssets",
+      "Recurse": 1
+    },
+    {
+      "Path": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport"
+    },
+    {
+      "Path": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono",
+      "Recurse": 1
+    },
+    {
+      "Path": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/Data/Resources",
+      "Recurse": 1
+    },
+    {
+      "Path": "D:/Unity/Unity Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline"
+    },
+    {
+      "Path": "Library/PlayerDataCache/Win64/Data",
+      "Recurse": 1
+    },
+    {
+      "Path": "Temp/StagingArea/Data/Managed"
+    },
+    {
+      "Path": "Temp/StagingArea/Data/Plugins"
+    },
+    {
+      "Path": "Temp/StagingArea/Data/UnitySubsystems",
+      "Recurse": 1
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".winmd",
+    ".pdb",
+    ".cpp",
+    ".cc",
+    ".c",
+    ".hpp",
+    ".h",
+    ".json",
+    ".xml",
+    ".txt",
+    ".config"
+  ],
+  "StructuredLogFileName": "Library/Bee/tundra.log.json",
+  "StateFileName": "Library/Bee/TundraBuildState.state",
+  "StateFileNameTmp": "Library/Bee/TundraBuildState.state.tmp",
+  "StateFileNameMapped": "Library/Bee/TundraBuildState.state.map",
+  "ScanCacheFileName": "Library/Bee/tundra.scancache",
+  "ScanCacheFileNameTmp": "Library/Bee/tundra.scancache.tmp",
+  "DigestCacheFileName": "Library/Bee/tundra.digestcache",
+  "DigestCacheFileNameTmp": "Library/Bee/tundra.digestcache.tmp",
+  "EmitDataForBeeWhy": 0,
+        "NamedNodes": {
+          "all_tundra_nodes": 0,
+          "Player": 276
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "Library/Bee/Playercc449d29.dag.json",
+  "RelativePathToRoot": "../.."
+}

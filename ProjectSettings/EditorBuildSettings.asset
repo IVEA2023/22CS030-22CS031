@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 5cef20a0f7ac1524c948ab5d296319e9
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: d2874bd0124012144a8f0b49b9fde729
+  - enabled: 1
+    path: Assets/Scenes/Library.unity
+    guid: bdd4605139fa444408dc8603091994b9
+  - enabled: 1
+    path: Assets/Scenes/MeetingRoom.unity
+    guid: 847b3b0c2df0efc439a02266cd0741ee
+  - enabled: 1
+    path: Assets/Scenes/GameRoom.unity
+    guid: 644fd5064571e3a41acce3524fc6eefe
+  - enabled: 0
+    path: Assets/Scenes/GameRoom1.unity
+    guid: 502736c77b8380749a48b7cdd1bf10dc
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 55aae77a4e9fa814394ba2a4d03bd507
+  - enabled: 1
+    path: Assets/Scenes/TeleportGame.unity
+    guid: 2b5909c4fe4fc804aa693f13bf12d5f1
+  m_configObjects: {}
